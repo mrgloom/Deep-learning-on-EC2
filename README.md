@@ -2,6 +2,8 @@
 Deep learning on EC2 AWS
 
 ~~~
+http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
+
 http://markus.com/install-theano-on-aws/
 
 http://www.joyofdata.de/blog/gpu-powered-deeplearning-with-nvidia-digits/
