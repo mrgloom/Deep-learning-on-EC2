@@ -10,4 +10,7 @@ http://www.joyofdata.de/blog/gpu-powered-deeplearning-with-nvidia-digits/
 http://www.joyofdata.de/blog/guide-to-aws-ec2-on-cli/
 
 https://github.com/GemHunt/CoinSorter/blob/master/scripts/AWSCaffeDigetsBuild.md
+
+https://github.com/wendykan/AWSGPU_DeepLearning
+
 ~~~
