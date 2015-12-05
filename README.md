@@ -13,4 +13,5 @@ https://github.com/GemHunt/CoinSorter/blob/master/scripts/AWSCaffeDigetsBuild.md
 
 https://github.com/wendykan/AWSGPU_DeepLearning
 
+https://github.com/deeplearningparis/dl-machine
 ~~~
