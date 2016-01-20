@@ -15,3 +15,9 @@ https://github.com/wendykan/AWSGPU_DeepLearning
 
 https://github.com/deeplearningparis/dl-machine
 ~~~
+
+
+Docker:
+~~~
+https://github.com/emergingstack/es-dev-stack
+~~~
