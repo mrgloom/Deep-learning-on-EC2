@@ -26,7 +26,8 @@ https://github.com/emergingstack/es-dev-stack
 ~~~
 
 
-Hardware: 
+Other hardware: 
 ~~~
+http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/
 http://omnine.blogspot.ru/2015/07/caffe-on-nvidia-gtx-980.html
 ~~~
