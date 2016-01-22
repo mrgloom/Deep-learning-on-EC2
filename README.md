@@ -21,3 +21,9 @@ Docker:
 ~~~
 https://github.com/emergingstack/es-dev-stack
 ~~~
+
+
+Hardware: 
+~~~
+http://omnine.blogspot.ru/2015/07/caffe-on-nvidia-gtx-980.html
+~~~
