@@ -14,6 +14,9 @@ https://github.com/GemHunt/CoinSorter/blob/master/scripts/AWSCaffeDigetsBuild.md
 https://github.com/wendykan/AWSGPU_DeepLearning
 
 https://github.com/deeplearningparis/dl-machine
+
+https://github.com/BVLC/caffe/wiki/Install-Caffe-on-EC2-from-scratch-%28Ubuntu,-CUDA-7,-cuDNN%29
+
 ~~~
 
 
