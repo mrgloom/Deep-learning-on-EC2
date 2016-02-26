@@ -19,6 +19,7 @@ https://github.com/BVLC/caffe/wiki/Install-Caffe-on-EC2-from-scratch-%28Ubuntu,-
 
 http://www.stat.berkeley.edu/scf/paciorek-gpuWorkshop.html
 
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using_cluster_computing.html
 ~~~
 
 
