@@ -26,8 +26,16 @@ https://github.com/emergingstack/es-dev-stack
 ~~~
 
 
-Other hardware: 
+Hardware: 
 ~~~
+
 http://timdettmers.com/2014/08/14/which-gpu-for-deep-learning/
 http://omnine.blogspot.ru/2015/07/caffe-on-nvidia-gtx-980.html
+https://devtalk.nvidia.com/default/topic/891115/nvidia-m2090-power-compatibility-question/
+http://pjreddie.com/darknet/hardware-guide/
+
+cuDNN v3 requires CUDA 7.0
+cuDNN v2 and v1 both require CUDA 6.5
+All cuDNN versions require compute capability >= 3.0 devices
+
 ~~~
