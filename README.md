@@ -28,6 +28,11 @@ Docker:
 https://github.com/emergingstack/es-dev-stack
 ~~~
 
+Posts:
+~~~
+https://www.reddit.com/r/MachineLearning/comments/305me5/slow_gpu_performance_on_amazon_g22xlarge/
+
+~~~
 
 Hardware: 
 ~~~
