@@ -22,6 +22,8 @@ http://www.stat.berkeley.edu/scf/paciorek-gpuWorkshop.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using_cluster_computing.html
 
 https://gist.github.com/baraldilorenzo/5cce8087dbae098aa5a6
+
+http://mxnet.readthedocs.org/en/latest/aws.html
 ~~~
 
 
