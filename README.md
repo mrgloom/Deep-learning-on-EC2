@@ -17,6 +17,8 @@ https://github.com/deeplearningparis/dl-machine
 
 https://github.com/BVLC/caffe/wiki/Install-Caffe-on-EC2-from-scratch-%28Ubuntu,-CUDA-7,-cuDNN%29
 
+http://www.stat.berkeley.edu/scf/paciorek-gpuWorkshop.html
+
 ~~~
 
 
