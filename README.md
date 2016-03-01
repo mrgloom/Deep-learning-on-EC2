@@ -26,6 +26,8 @@ https://gist.github.com/baraldilorenzo/5cce8087dbae098aa5a6
 http://mxnet.readthedocs.org/en/latest/aws.html
 
 https://no2147483647.wordpress.com/2016/01/16/setup-amazon-aws-gpu-instance-with-mxnet/
+
+https://github.com/HazyResearch/CaffeConTroll
 ~~~
 
 
