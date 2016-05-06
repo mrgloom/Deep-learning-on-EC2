@@ -28,6 +28,9 @@ http://mxnet.readthedocs.org/en/latest/aws.html
 https://no2147483647.wordpress.com/2016/01/16/setup-amazon-aws-gpu-instance-with-mxnet/
 
 https://github.com/HazyResearch/CaffeConTroll
+
+Tensorflow
+http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
 ~~~
 
 
