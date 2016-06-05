@@ -36,6 +36,10 @@ http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
 
 Caffe
 https://github.com/BVLC/caffe/tree/master/docker
+
+Torch
+https://jameskoppen.com/setup-torch7-on-aws.html
+
 ~~~
 
 
