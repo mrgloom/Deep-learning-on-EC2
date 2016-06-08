@@ -46,6 +46,7 @@ https://jameskoppen.com/setup-torch7-on-aws.html
 Docker:
 ~~~
 https://github.com/emergingstack/es-dev-stack
+https://github.com/saiprashanths/dl-docker
 ~~~
 
 Posts:
