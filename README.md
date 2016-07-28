@@ -40,6 +40,7 @@ https://github.com/BVLC/caffe/tree/master/docker
 Torch
 https://jameskoppen.com/setup-torch7-on-aws.html
 
+https://www.metachris.com/2015/11/machine-learning-on-amazon-aws-gpu-instances/
 ~~~
 
 
