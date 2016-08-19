@@ -43,6 +43,9 @@ https://jameskoppen.com/setup-torch7-on-aws.html
 https://www.metachris.com/2015/11/machine-learning-on-amazon-aws-gpu-instances/
 
 http://automl.chalearn.org/general-gpus-on-aws
+
+Install scripts
+https://github.com/Microsoft/deep_learning_tools_for_dsvm
 ~~~
 
 
