@@ -53,6 +53,7 @@ Docker:
 ~~~
 https://github.com/emergingstack/es-dev-stack
 https://github.com/saiprashanths/dl-docker
+https://github.com/NVIDIA/nvidia-docker/wiki/Deploy-on-Amazon-EC2
 ~~~
 
 Posts:
