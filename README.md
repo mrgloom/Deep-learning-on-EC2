@@ -77,3 +77,8 @@ cuDNN v2 and v1 both require CUDA 6.5
 All cuDNN versions require compute capability >= 3.0 devices
 
 ~~~
+
+Scaling:
+~~~
+https://github.com/tleyden/elastic-thought
+~~~
