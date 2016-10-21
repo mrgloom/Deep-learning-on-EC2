@@ -78,6 +78,11 @@ All cuDNN versions require compute capability >= 3.0 devices
 
 ~~~
 
+Multi CPU:
+~~~
+https://github.com/Maratyszcza/NNPACK
+~~~
+
 Scaling:
 ~~~
 https://github.com/tleyden/elastic-thought
