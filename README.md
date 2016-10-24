@@ -83,6 +83,11 @@ Multi CPU:
 https://github.com/Maratyszcza/NNPACK
 ~~~
 
+Some speed benchmarks:
+~~~
+https://github.com/szilard/benchm-dl
+~~~
+
 Scaling:
 ~~~
 https://github.com/tleyden/elastic-thought
