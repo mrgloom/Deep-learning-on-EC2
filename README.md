@@ -35,7 +35,7 @@ Tensorflow
 http://eatcodeplay.com/installing-gpu-enabled-tensorflow-with-python-3-4-in-ec2/
 
 Caffe
-https://github.com/BVLC/caffe/tree/master/docker
+https://github.com/adilmoujahid/deeplearning-cats-dogs-tutorial/blob/master/aws-ec2-setup.md
 
 Torch
 https://jameskoppen.com/setup-torch7-on-aws.html
@@ -54,6 +54,7 @@ Docker:
 https://github.com/emergingstack/es-dev-stack
 https://github.com/saiprashanths/dl-docker
 https://github.com/NVIDIA/nvidia-docker/wiki/Deploy-on-Amazon-EC2
+https://github.com/BVLC/caffe/tree/master/docker
 ~~~
 
 Posts:
