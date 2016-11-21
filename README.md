@@ -92,4 +92,5 @@ https://github.com/szilard/benchm-dl
 Scaling:
 ~~~
 https://github.com/tleyden/elastic-thought
+https://github.com/yahoo/CaffeOnSpark
 ~~~
