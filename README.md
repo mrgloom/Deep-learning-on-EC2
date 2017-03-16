@@ -2,6 +2,8 @@
 Deep learning on EC2 AWS
 
 ~~~
+https://github.com/floydhub/dl-setup
+
 https://github.com/saiprashanths/dl-setup
 
 http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
