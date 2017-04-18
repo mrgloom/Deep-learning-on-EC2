@@ -96,3 +96,8 @@ Scaling:
 https://github.com/tleyden/elastic-thought
 https://github.com/yahoo/CaffeOnSpark
 ~~~
+
+AWS lambda:
+~~~
+https://github.com/excamera/AWSLambdaFace
+~~~
