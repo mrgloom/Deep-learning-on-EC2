@@ -100,4 +100,5 @@ https://github.com/yahoo/CaffeOnSpark
 AWS lambda:
 ~~~
 https://github.com/excamera/AWSLambdaFace
+https://github.com/aeddi/aws-lambda-python-opencv
 ~~~
