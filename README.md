@@ -53,6 +53,7 @@ https://github.com/Microsoft/deep_learning_tools_for_dsvm
 
 Docker:
 ~~~
+https://github.com/dominiek/deep-base
 https://github.com/emergingstack/es-dev-stack
 https://github.com/saiprashanths/dl-docker
 https://github.com/NVIDIA/nvidia-docker/wiki/Deploy-on-Amazon-EC2
