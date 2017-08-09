@@ -96,6 +96,7 @@ Scaling:
 ~~~
 https://github.com/tleyden/elastic-thought
 https://github.com/yahoo/CaffeOnSpark
+https://github.com/amzn/amazon-dsstne
 ~~~
 
 AWS lambda:
